@@ -5,7 +5,7 @@ Universall Reverse and Bind Shell, encrypted, running over 443, evasive..
 Project just started, not nearly feature-complete.
 
 ## The Plan
-Make something better than "nc -lvnp 9090" - instead a two-part, encrypted, evasive but still lightweight reverse shell / bin shell for practical use:
+Make something better than "nc -lvnp 9090" - instead a two-part, encrypted, evasive but still lightweight reverse shell / bind shell for everyday use:
 - Keep it simple, no feature overflow
 - Widely compatible, not relying on custom imports
 - Maybe implant compiled to exe, elf, apk
